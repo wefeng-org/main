@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "CpfWeChat/1.0.0": {
+      "WeFeng/1.0.0": {
         "dependencies": {
           "Betalgo.OpenAI.GPT3": "6.6.8",
           "Newtonsoft.Json": "13.0.2",
@@ -18,7 +18,7 @@
           "Xhm.CPF.Windows": "0.9.6.3"
         },
         "runtime": {
-          "CpfWeChat.dll": {}
+          "WeFeng.dll": {}
         }
       },
       "Betalgo.OpenAI.GPT3/6.6.8": {
@@ -1804,7 +1804,7 @@
     }
   },
   "libraries": {
-    "CpfWeChat/1.0.0": {
+    "WeFeng/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
